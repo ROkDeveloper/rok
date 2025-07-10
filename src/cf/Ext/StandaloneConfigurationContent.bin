@@ -1,164 +1,314 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <StandaloneContent xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
 	<UsedItem>
-		<Metadata>Catalog.Встречи</Metadata>
+		<Metadata>Catalog.ВариантыОтчетов</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>ExchangePlan.Мобильные</Metadata>
+		<Metadata>Role.ДобавлениеИзменениеСнимковОтчетов</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>Subsystem.Финансы</Metadata>
+		<Metadata>Constant._ДемоОтправленоЗаписей</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>CommonModule.ОбменМобильныеОбщее</Metadata>
+		<Metadata>Constant._ДемоКодНовогоУзлаПланаОбмена</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>CommonModule.СистемаВзаимодействияКлиент</Metadata>
+		<Metadata>CommonModule.СтандартныеПодсистемыСервер</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>Catalog.Контрагенты</Metadata>
+		<Metadata>InformationRegister.СнимкиОтчетов</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>Subsystem.Предприятие</Metadata>
+		<Metadata>CommonModule._ДемоОбменМобильныйКлиентКлиент</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>CommonModule.БотКлиент</Metadata>
+		<Metadata>CommonCommand.СнимкиОтчетовДляАвтономногоРежима</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>Report.АнализЗаказов</Metadata>
+		<Metadata>CommonModule._ДемоОбменМобильныйКлиент</Metadata>
 	</UsedItem>
 	<UsedItem>
 		<Metadata>Catalog.Пользователи</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>CommonModule.ГлобальныйПоискКлиент</Metadata>
+		<Metadata>Role._ДемоОбменМобильныйКлиент</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>Enum.ВидыТоваров</Metadata>
+		<Metadata>CommonModule.СтандартныеПодсистемыКлиентСерверЛокализация</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>Catalog.Регионы</Metadata>
+		<Metadata>CommonModule._ДемоОбменМобильныйКлиентГлобальный</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>CommonForm.Звонок</Metadata>
+		<Metadata>CommonModule.ОбщегоНазначенияСлужебныйКлиентСервер</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>Subsystem.ТоварныеЗапасы.Subsystem.Цены</Metadata>
+		<Metadata>CommonModule._ДемоОбменМобильныйКлиентАвтономныйВызовСервера</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>Role.МенеджерПоЗакупкам</Metadata>
+		<Metadata>CommonModule.ОбщегоНазначения</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>DocumentJournal.ДокументыПродаж</Metadata>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>InformationRegister.КурсыВалют</Metadata>
+		<Metadata>Constant._ДемоПринятоЗаписей</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>Document.Заказ</Metadata>
+		<Metadata>ExchangePlan._ДемоМобильныйКлиент</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>CommonModule.УведомленияКлиент</Metadata>
+		<Metadata>CommonModule.СтроковыеФункцииКлиентСерверЛокализация</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>Catalog.ХранимыеФайлы</Metadata>
+		<Metadata>CommonModule._ДемоОбменМобильныйКлиентВызовСервера</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>Catalog.Товары</Metadata>
+		<Metadata>Role.БазовыеПраваБСП</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>Subsystem.ТоварныеЗапасы.Subsystem.Характеристики</Metadata>
+		<Metadata>CommonModule._ДемоОбменМобильныйКлиентАвтономныйКлиент</Metadata>
 	</UsedItem>
 	<UsedItem>
-		<Metadata>FunctionalOption.ВалютныйУчет</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Catalog.Склады</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Role.Администратор</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Subsystem.ТоварныеЗапасы</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Constant.УчетПоСкладам</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Role.Продавец</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>CommonModule.ГеопозиционированиеКлиент</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Subsystem.Продажи</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Catalog.Организации</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Constant.ОтметкаНаФотоснимкеДата</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Catalog.ВидыЦен</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>InformationRegister.МобильныеОтчеты</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Enum.СостоянияЗаказов</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>InformationRegister.ЦеныТоваров</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Report.ОстаткиТоваровНаСкладахМобильный</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>CommonModule.УведомленияСервер</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Enum.ИспользоватьПровайдерГеопозиционирования</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>FunctionalOption.УчетПоСкладам</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Role.ПользовательБот</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Catalog.Валюты</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Subsystem.Финансы.Subsystem.Банк</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Constant.ОтметкаНаФотоснимкеТекст</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>CommonModule.ОбменМобильныеПереопределяемый</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Role.МенеджерПоПродажам</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Enum.ВидыМобильныхОтчетов</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>CommonModule.ГлобальныйПоискСервер</Metadata>
-	</UsedItem>
-	<UsedItem>
-		<Metadata>Subsystem.Закупки</Metadata>
+		<Metadata>CommonModule.СтроковыеФункцииКлиентСервер</Metadata>
 	</UsedItem>
 	<UnusedItem>
-		<Metadata>Catalog.Встречи.Form.Календарь</Metadata>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.TabularSection.Команды</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.TabularSection.ДополнительныеРеквизиты</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.ВидимостьПоУмолчаниюПереопределена</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Form.ФормаСписка</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.Ответственный</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.TabularSection.ДополнительныеРеквизиты</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.ИнтерактивнаяПометкаУдаления</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Command.Открыть</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Form.ФормаСписка</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.ТолькоДляАвтора</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Form.ПроверкаДополнительныхОтчетовИОбработок</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.Комментарий</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.TabularSection.Размещение</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Form.СменаПочты</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.БезопасныйРежим</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.Описание</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.Пользовательский</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.Отчет</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.ИспользуетХранилищеВариантов</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Attribute.Подготовлен</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.ОписаниеЯзык1</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.Версия</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.НаименованияПараметровИОтборов</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.НаименованияПолей</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Form.ФормаЭлемента</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.ВидимостьПоУмолчанию</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.Вид</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Attribute.Фотография</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.ИспользоватьДляФормыОбъекта</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Form.ФормаЭлемента</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.ТипОтчета</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.КлючевыеСлова</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.TabularSection.Назначение</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.Назначение</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Attribute.Комментарий</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.Автор</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.ПредопределенныйВариант</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Form.ПользователиИнформационнойБазы</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.TabularSection.Разделы</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Form.ФормаСписка</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.РежимСовместимостиРазрешений</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.ОписаниеЯзык2</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Form.СбросПользовательскихНастроек</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Form.ОграничениеНаВходВПрограмму</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Form.РазмещениеВРазделах</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.ИмяФайла</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Attribute.Недействителен</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Command.Изменить</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.ХранилищеОбработки</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Attribute.Служебный</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Command.ПользователиИнформационнойБазы</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.Публикация</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.TabularSection.Представления</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.TabularSection.Разрешения</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.ХешНастроек</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Form.ФормаЭлемента</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Attribute.Подразделение</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Form.ВыборПользователяОперационнойСистемы</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Form.ВводПароля</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Command.РазместитьВРазделах</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.TabularSection.КонтактнаяИнформация</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Attribute.ФизическоеЛицо</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Attribute.УдалитьСвойстваПользователяИБ</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.Контекст</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Form.БыстрыйДоступКДополнительнымОтчетамИОбработкам</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.Пользователи.Attribute.ИдентификаторПользователяСервиса</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Command.СброситьНастройкиРазмещения</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Command.СброситьНастройкиПользователей</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.ХранилищеНастроек</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Form.РазмещениеВРазделах</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.Информация</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Form.СбросНастроекРазмещения</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ВариантыОтчетов.Attribute.Настройки</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.ТеснаяИнтеграцияСФормойОтчета</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.ИспользоватьДляФормыСписка</Metadata>
+	</UnusedItem>
+	<UnusedItem>
+		<Metadata>Catalog.ДополнительныеОтчетыИОбработки.Attribute.ИмяОбъекта</Metadata>
 	</UnusedItem>
 	<PriorityItem>
-		<Metadata>Catalog.Пользователи</Metadata>
+		<Metadata>CommonModule._ДемоОбменМобильныйКлиентАвтономныйВызовСервера</Metadata>
+		<Priority>LocalServer</Priority>
+	</PriorityItem>
+	<PriorityItem>
+		<Metadata>CommonModule._ДемоОбменМобильныйКлиентАвтономныйКлиент</Metadata>
 		<Priority>LocalServer</Priority>
 	</PriorityItem>
 	<DataExchangeSettings>
-		<ExchangePlanUUID>ExchangePlan.Мобильные</ExchangePlanUUID>
 		<ExchangeOnChangeData>true</ExchangeOnChangeData>
 		<ExchangePeriod>300</ExchangePeriod>
 		<TransactionCount>1000</TransactionCount>
