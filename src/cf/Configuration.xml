@@ -298,6 +298,7 @@
 			<Subsystem>ПодключаемыеОтчетыИОбработки</Subsystem>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
 			<Subsystem>ТехнологияСервиса</Subsystem>
+			<Subsystem>Подсистема1</Subsystem>
 			<StyleItem>АктуальнаяПодпискаЦвет</StyleItem>
 			<StyleItem>ВажнаяНадписьШрифт</StyleItem>
 			<StyleItem>ВидДняПроизводственногоКалендаряВоскресеньеЦвет</StyleItem>
@@ -3059,6 +3060,7 @@
 			<Catalog>ЯзыкиПечатныхФорм</Catalog>
 			<Catalog>Удалить_ДемоОбщиеСведения</Catalog>
 			<Catalog>УдалитьОчередьЗаданий</Catalog>
+			<Catalog>Справочник1</Catalog>
 			<Document>_ДемоЗаказПокупателя</Document>
 			<Document>_ДемоКорректировкаОстатковТоваровВМестахХранения</Document>
 			<Document>_ДемоНачислениеЗарплаты</Document>
