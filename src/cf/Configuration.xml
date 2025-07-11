@@ -3087,7 +3087,6 @@
 			<Document>ТелефонныйЗвонок</Document>
 			<Document>ЭлектронноеПисьмоВходящее</Document>
 			<Document>ЭлектронноеПисьмоИсходящее</Document>
-			<Document>Документ1</Document>
 			<Sequence>_ДемоДвижениеТоваров</Sequence>
 			<DocumentJournal>_ДемоЖурналВсехДокументов</DocumentJournal>
 			<DocumentJournal>_ДемоСкладскиеДокументы</DocumentJournal>

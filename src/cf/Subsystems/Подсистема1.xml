@@ -12,7 +12,6 @@
 			<Picture/>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Справочник1</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Document.Документ1</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
